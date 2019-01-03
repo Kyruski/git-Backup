@@ -1,5 +1,3 @@
-
-
 alias ls='ls -1A'
 
 alias gs='git status '
@@ -16,3 +14,4 @@ alias gh='git hist'
 
 alias got='git '
 alias get='git '
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
