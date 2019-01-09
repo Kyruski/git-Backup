@@ -11,6 +11,7 @@ alias gx='gitx --all'
 alias gpom='git push origin master'
 alias grau='git remote add upstream '
 alias gh='git hist' 
+alias gra='git remote add '
 
 alias got='git '
 alias get='git '
